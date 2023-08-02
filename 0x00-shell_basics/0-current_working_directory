@@ -1,0 +1,5 @@
+#!/alx-system_engineering-devops/0x00-shell_basics
+#GET The absolute pathe of the current working directory
+current_dir=$(pwd)
+#print the path
+echo "$current_dir"
