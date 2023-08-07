@@ -1,2 +1,2 @@
-#!/bin/bash
+kkk#!/bin/bash
 cat /etc/passwd /etc/hosts
